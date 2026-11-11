@@ -539,6 +539,17 @@ footer p {
     font-size: 16px;
 }
 
+#trivia {
+        display: block;
+        width: 80%;
+        max-width: 800px;
+        margin: 50px auto !important;
+        padding: 25px;
+        box-sizing: border-box;
+        text-align: center;
+        background-color: #eaf6fc;
+        border-radius: 15px;
+    }
 
 /* -----------------------------
    VERSIÓN PARA CELULAR
